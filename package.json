@@ -1,6 +1,8 @@
 {
   "private": true,
-  "scripts": {"dev": "yarn rw dev"},
+  "scripts": {
+    "dev": "yarn rw dev"
+  },
   "workspaces": {
     "packages": [
       "api",
